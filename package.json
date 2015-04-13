@@ -1,5 +1,5 @@
 {
-  "name": "grunt-angular-templateUrl-to-template",
+  "name": "grunt-angular-templateurl-to-template",
   "description": "Replace templateUrl to template in angular directives",
   "version": "0.1.0",
   "homepage": "https://github.com/jutaz/grunt-angular-templateUrl-to-template",
