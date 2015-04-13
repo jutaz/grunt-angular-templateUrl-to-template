@@ -1,0 +1,45 @@
+{
+  "name": "grunt-angular-templateUrl-to-template",
+  "description": "Replace templateUrl to template in angular directives",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jutaz/grunt-angular-templateUrl-to-template",
+  "author": {
+    "name": "Justas Brazauskas",
+    "email": "brazauskasjustas@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jutaz/grunt-angular-templateUrl-to-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jutaz/grunt-angular-templateUrl-to-template/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jutaz/grunt-angular-templateUrl-to-template/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "html-minifier": "^0.7.2",
+    "js-string-escape": "^1.0.0"
+  }
+}
